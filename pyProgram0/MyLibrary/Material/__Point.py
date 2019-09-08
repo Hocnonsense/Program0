@@ -6,8 +6,8 @@ class __Point(object):
     location of each point
     all Points move inside __XBoundary and __YBoundary
 """
-    __XBoundary
-    __YBoundary
+    __XBoundary = None
+    __YBoundary = None
 
     def __init__(self, x, y):
         self.__x , self.__y = self.__ifTuple(x, y)

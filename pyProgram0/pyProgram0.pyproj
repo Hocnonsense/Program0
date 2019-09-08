@@ -22,6 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="analog\__init__.py" />
     <Compile Include="interface\args.py">
       <SubType>Code</SubType>
     </Compile>
@@ -51,6 +52,7 @@
     <Folder Include="MyLibrary\Material\__pycache__\" />
     <Folder Include="MyLibrary\Monitor\" />
     <Folder Include="MyLibrary\Monitor\__pycache__\" />
+    <Folder Include="analog\" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="CondaEnv|CondaEnv|Anaconda" />

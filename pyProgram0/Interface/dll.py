@@ -13,3 +13,12 @@ class Point(__Point):
 def pyInit():
     args = (Point.XBoundary(), Point.YBoundary()), ARGS.UnitSize
     return args
+
+def pyStep():
+    pass
+
+def pyPassThrough():
+    Nodes = list()
+    exampleNode = (5, 5), (0, 127, 255) #   @Haor: delete if proper
+    Nodes.append(exampleNode)
+    return Nodes

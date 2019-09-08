@@ -25,10 +25,12 @@
     <Compile Include="c_dll\__init__.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="MyLibrary\__init__.py" />
     <Compile Include="pyProgram0.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="c_dll\" />
+    <Folder Include="MyLibrary\" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="CondaEnv|CondaEnv|Anaconda" />

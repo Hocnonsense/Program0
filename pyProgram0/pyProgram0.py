@@ -6,17 +6,13 @@ import random, math, pygame, sys
 from pygame.locals import *
 
 if __name__ == "__main__":
-    pass
+    args = dll.pyInit()
+    (XBoundary, Boundary), ARGS.UnitSize = args
 
-    #                                                                                       //Haor: add sys
-    
-    
-    
-    #main program begins
     pygame.init()
-    screen = pygame.display.set_mode((600,500))
-    pygame.display.set_caption("Circle Demo")
-    screen.fill((0,0,100))
+    screen = pygame.display.set_mode((XBoundary*UnitSize, Boundary*UintSiez))
+    pygame.display.set_caption("pyProgram")
+    screen.fill((0,0,0))
     
     pos_x = 300
     pos_y = 250

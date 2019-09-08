@@ -9,3 +9,7 @@ class Point(__Point):
     __XBoundary = ARGS.XBoundary
     __YBoundary = ARGS.YBoundary
     pass
+
+def pyInit():
+    args = (Point.XBoundary(), Point.YBoundary()), ARGS.UnitSize
+    return args

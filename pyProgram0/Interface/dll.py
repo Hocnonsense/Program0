@@ -3,6 +3,7 @@
 
 import interface.args as ARGS
 from MyLibrary.Material.__Point import __Point
+import analog.main as dll
 
 class Point(__Point):
     
@@ -10,15 +11,25 @@ class Point(__Point):
     __YBoundary = ARGS.YBoundary
     pass
 
+
 def pyInit():
     args = (Point.XBoundary(), Point.YBoundary()), ARGS.UnitSize
+    dll.pyInit()
     return args
 
 def pyStep():
+    dll.pyStep()
     pass
 
 def pyPassThrough():
-    Nodes = list()
-    exampleNode = (5, 5), (0, 127, 255) #   @Haor: delete if proper
-    Nodes.append(exampleNode)
-    return Nodes
+    nodes = list()
+
+    output = dll.pyPassThrough()
+    for eachOne in output:
+        node = eachOne
+        nodes.append(node)
+
+    return nodes
+
+def pyEnd():
+    dll.pyEnd()

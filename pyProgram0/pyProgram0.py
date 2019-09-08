@@ -2,7 +2,7 @@
 #version 1.0.0
 
 import interface.dll as dll
-import random, math, pygame, sys
+import pygame, sys
 from pygame.locals import *
 
 def refreash():
@@ -10,12 +10,14 @@ def refreash():
     for event in pygame.event.get():
         if event.type == QUIT:
             sys.exit()
+            dll.pyEnd()
     keys = pygame.key.get_pressed()
     if keys[K_ESCAPE]:
         sys.exit()
+        dll.pyEnd()
    
-def drawRect(screen, Node, UnitSize):
-    (x, y), color = Node
+def drawRect(screen, node, UnitSize):
+    (x, y), color = node
     pygame.draw.rect(screen, color, (x, y, x+UnitSize, y+UnitSize), 0)
     pass
 
@@ -33,9 +35,9 @@ if __name__ == "__main__":
 
         dll.pyStep()
 
-        Nodes = dll.pyPassThrough()
-        for Node in Nodes:
-            drawRect(screen, Node, UnitSize)
+        nodes = dll.pyPassThrough()
+        for node in nodes:
+            drawRect(screen, node, UnitSize)
             pass
     
         #                                                                                   //Haor: update don't clean the screen

@@ -25,16 +25,44 @@
     <Compile Include="c_dll\__init__.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="MyLibrary\Input\Input.py" />
+    <Compile Include="MyLibrary\Input\Keyboard.py" />
+    <Compile Include="MyLibrary\Input\Keys.py" />
+    <Compile Include="MyLibrary\Input\Mouse.py" />
+    <Compile Include="MyLibrary\Input\__init__.py" />
+    <Compile Include="MyLibrary\Material\Point.py" />
+    <Compile Include="MyLibrary\Material\__init__.py" />
+    <Compile Include="MyLibrary\Monitor\Logger.py" />
+    <Compile Include="MyLibrary\Monitor\PyHookTest.py" />
+    <Compile Include="MyLibrary\Monitor\__init__.py" />
     <Compile Include="MyLibrary\__init__.py" />
     <Compile Include="pyProgram0.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="c_dll\" />
     <Folder Include="MyLibrary\" />
+    <Folder Include="MyLibrary\Input\" />
+    <Folder Include="MyLibrary\Input\__pycache__\" />
+    <Folder Include="MyLibrary\Material\" />
+    <Folder Include="MyLibrary\Material\__pycache__\" />
+    <Folder Include="MyLibrary\Monitor\" />
+    <Folder Include="MyLibrary\Monitor\__pycache__\" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="CondaEnv|CondaEnv|Anaconda" />
     <InterpreterReference Include="CondaEnv|CondaEnv|env" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MyLibrary\Input\__pycache__\Input.cpython-37.pyc" />
+    <Content Include="MyLibrary\Input\__pycache__\Keyboard.cpython-37.pyc" />
+    <Content Include="MyLibrary\Input\__pycache__\Keys.cpython-37.pyc" />
+    <Content Include="MyLibrary\Input\__pycache__\Mouse.cpython-37.pyc" />
+    <Content Include="MyLibrary\Input\__pycache__\__init__.cpython-37.pyc" />
+    <Content Include="MyLibrary\Material\__pycache__\Point.cpython-37.pyc" />
+    <Content Include="MyLibrary\Material\__pycache__\__init__.cpython-37.pyc" />
+    <Content Include="MyLibrary\Monitor\__pycache__\Logger.cpython-37.pyc" />
+    <Content Include="MyLibrary\Monitor\__pycache__\PyHookTest.cpython-37.pyc" />
+    <Content Include="MyLibrary\Monitor\__pycache__\__init__.cpython-37.pyc" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

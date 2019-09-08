@@ -22,7 +22,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="c_dll\__init__.py">
+    <Compile Include="interface\args.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="interface\dll.py" />
+    <Compile Include="interface\__init__.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="MyLibrary\Input\Input.py" />
@@ -30,7 +34,7 @@
     <Compile Include="MyLibrary\Input\Keys.py" />
     <Compile Include="MyLibrary\Input\Mouse.py" />
     <Compile Include="MyLibrary\Input\__init__.py" />
-    <Compile Include="MyLibrary\Material\Point.py" />
+    <Compile Include="MyLibrary\Material\__Point.py" />
     <Compile Include="MyLibrary\Material\__init__.py" />
     <Compile Include="MyLibrary\Monitor\Logger.py" />
     <Compile Include="MyLibrary\Monitor\PyHookTest.py" />
@@ -39,7 +43,7 @@
     <Compile Include="pyProgram0.py" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="c_dll\" />
+    <Folder Include="interface\" />
     <Folder Include="MyLibrary\" />
     <Folder Include="MyLibrary\Input\" />
     <Folder Include="MyLibrary\Input\__pycache__\" />

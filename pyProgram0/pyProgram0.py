@@ -1,8 +1,10 @@
 #2019-9-8 23:12:21
 #version 1.0.0
 
-# Circle Demo
-# Chapter 5
+
+if __name__ == "__main__":
+
+	pass
 
 #                                                                                       //Haor: add sys
 import random, math, pygame, sys

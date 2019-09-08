@@ -11,6 +11,8 @@ class Point(__Point):
     __YBoundary = ARGS.YBoundary
     pass
 
+def __show(eachOne):
+    return eachOne
 
 def pyInit():
     args = (Point.XBoundary(), Point.YBoundary()), ARGS.UnitSize
@@ -26,7 +28,7 @@ def pyPassThrough():
 
     output = dll.pyPassThrough()
     for eachOne in output:
-        node = eachOne
+        node = __show(eachOne)
         nodes.append(node)
 
     return nodes

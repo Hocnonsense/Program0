@@ -14,5 +14,8 @@ def pyPassThrough():
     cells.append(((2, 4), (0, 50, 100)))
     return cells
 
+def pySave():
+    pass
+
 def pyEnd():
     pass

@@ -42,6 +42,9 @@
     <Compile Include="MyLibrary\Input\Keys.py" />
     <Compile Include="MyLibrary\Input\Mouse.py" />
     <Compile Include="MyLibrary\Input\__init__.py" />
+    <Compile Include="MyLibrary\Material\__Contain.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="MyLibrary\Material\__Point.py" />
     <Compile Include="MyLibrary\Material\__init__.py" />
     <Compile Include="MyLibrary\Monitor\Logger.py" />

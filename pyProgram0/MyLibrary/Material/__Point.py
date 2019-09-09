@@ -10,6 +10,9 @@ class __Point(object):
     __YBoundary = None
 
     def __init__(self, x, y):
+        """
+            Point(x, y) or Point((x, y), "")
+        """
         self.__x , self.__y = self.__ifTuple(x, y)
 
     #X property

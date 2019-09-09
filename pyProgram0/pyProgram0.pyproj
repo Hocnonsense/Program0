@@ -22,6 +22,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="analog\Cells.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="analog\Pools.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="analog\__init__.py" />
     <Compile Include="analog\main.py" />
     <Compile Include="interface\args.py">

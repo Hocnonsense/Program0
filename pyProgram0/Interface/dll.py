@@ -2,21 +2,15 @@
 #version 1.0.0
 
 import interface.args as ARGS
-from MyLibrary.Material.__Point import __Point
 import analog.main as dll
 
-class Point(__Point):
-    
-    __XBoundary = ARGS.XBoundary
-    __YBoundary = ARGS.YBoundary
-    pass
 
 def __show(eachOne):
     return eachOne
 
 def pyInit():
-    args = (Point.XBoundary(), Point.YBoundary()), ARGS.UnitSize
-    dll.pyInit()
+    args = (ARGS.XBoundary, ARGS.YBoundary), ARGS.UnitSize
+    dll.pyInit(ARGS.XBoundary, ARGS.YBoundary)
     return args
 
 def pyStep():

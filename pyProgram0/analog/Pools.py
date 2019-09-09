@@ -64,15 +64,6 @@ class Pools(object):
         except Exception as e:
             self.__blankInit()
 
-        contains = {"r": 255, "g": 255, "b": 255}
-        self.pools[10][10](contains) # 测试 Pools 可用性
-        print(self.pools[10][10]())
-        self.pools[20][10](contains) # 测试 Pools 可用性
-        print(self.pools[20][10]())
-        self.pools[10][20](contains) # 测试 Pools 可用性
-        print(self.pools[10][20]())
-        self.pools[20][20](contains) # 测试 Pools 可用性
-        print(self.pools[20][20]())
 
 
     def __fileInit(self, filename = ""):

@@ -2,17 +2,24 @@
 #version 1.0.0
 from analog.Pools import Pools
 
+pools, cells = None, None
+
 def pyInit():
+    global pools
+    global cells
     pools = Pools()
-    print("maim.pyInit()")
 
 def pyStep():
-    print("main.pyStep()")
+    #print("main.pyStep()")
+    pass
 
 def pyPassThrough():
-    cells = list()
-    cells.append(((2, 4), (0, 50, 100)))
-    return cells
+    """
+        输出将要画在 pygame 的画布上的图案
+    """
+    output = list()
+    output = pools.drawPools()
+    return output
 
 def pySave():
     pass

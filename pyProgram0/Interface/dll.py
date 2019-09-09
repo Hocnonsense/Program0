@@ -10,7 +10,7 @@ def __show(eachOne):
 
 def pyInit():
     args = (ARGS.XBoundary, ARGS.YBoundary), ARGS.UnitSize
-    dll.pyInit(ARGS.XBoundary, ARGS.YBoundary)
+    dll.pyInit()
     return args
 
 def pyStep():
@@ -29,3 +29,4 @@ def pyPassThrough():
 
 def pyEnd():
     dll.pyEnd()
+    print("save successfully")

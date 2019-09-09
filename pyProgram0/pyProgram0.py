@@ -32,23 +32,24 @@ def refreash():
    
 def drawRect(screen, node, UnitSize):
     (x, y), color = node
+    x, y = x*UnitSize, y*UnitSize
     pygame.draw.rect(screen, color, (x, y, x+UnitSize, y+UnitSize), 0)
     pass
 
-def display(XBoundary, Boundary, UnitSize):
+def display(XBoundary, YBoundary, UnitSize):
     pygame.init()
-    screen = pygame.display.set_mode((XBoundary*UnitSize, Boundary*UnitSize))
+    screen = pygame.display.set_mode((XBoundary*UnitSize, YBoundary*UnitSize))
     pygame.display.set_caption("pyProgram")
-    screen.fill((0,0,0))
+    screen.fill((0,100,0))
     return screen
 
 
 #__main__
 if __name__ == "__main__":
     args = dll.pyInit()
-    (XBoundary, Boundary), UnitSize = args
+    (XBoundary, YBoundary), UnitSize = args
 
-    screen = display(XBoundary, Boundary, UnitSize)
+    screen = display(XBoundary, YBoundary, UnitSize)
 
     running = True
     while running:

@@ -33,6 +33,7 @@ def refreash():
 def drawRect(screen, node, UnitSize):
     (x, y), color = node
     x, y = x*UnitSize, y*UnitSize
+    if color != (0, 0, 0): print(color)
     pygame.draw.rect(screen, color, (x, y, x+UnitSize, y+UnitSize), 0)
     pass
 

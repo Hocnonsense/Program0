@@ -65,12 +65,3 @@ class __Point(object):
         """
         self.__x, self.__y = x, y
         return(self.__x, self.__y)
-
-    def around(self):
-        neighbors = list()
-        for dy in [-1, 0, 1]:
-            for dx in [-1, 0, 1]:
-                x, y = self.__call__(dx, dy)
-                neighbors.append((x, y))
-        neighbors.remove((self.x, self.y))
-        return neighbors

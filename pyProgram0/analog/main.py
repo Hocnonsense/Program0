@@ -10,7 +10,7 @@ def pyInit():
     pools = Pools()
 
 def pyStep():
-    #print("main.pyStep()")
+    pools.diffusion()
     pass
 
 def pyPassThrough():

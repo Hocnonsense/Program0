@@ -8,16 +8,44 @@ class Point(__Point):
 
 
 from MyLibrary.Material.__Contain import __Contain
+class Contain(__Contain):
+    def __init__(self, contains):
+        super().__init__(contains)
+        self.using = 0
+
 class Pool(__Contain):
     def __init__(self, point, contains):
         super().__init__(contains)
         self.__point = Point(point, "tuple")
         self.occupy = None  # 指向该位置上的 Cell
+        self.tmp = Contain(dict()) # diffusion 中的暂存变量
 
     def __getPoint(self):
-        return self.__point()
+        return Point(self.__point(), "a new Point()")
     point = property(fget = __getPoint)
 
+
+    def inDiffuse(self, tmp):
+        self.tmp.using += 1
+        for contain in tmp:
+            self.tmp[contain] = tmp[contain]
+        self.__doDiffusion(tmp)
+
+    def outDiffuse(self):
+        self.tmp.using += 2
+        contains = self()
+        tmp = dict()
+        for contain in contains:
+            tmp[contain] = int(contains[contain]/10)
+            self.tmp[contain] = contains[contain] - tmp[contain]*8
+        self.__doDiffusion(tmp)
+        return tmp
+
+    def __doDiffusion(self, tmp):
+        if self.tmp.using == 10 :
+            self._Contain__contains = self.tmp()
+            self.tmp = Contain(dict())
+        pass
 
 
 
@@ -66,9 +94,28 @@ class Pools(object):
                 poolx.append(pool)
             self.pools.append(poolx)
 
-    def diffusion():
-        
-        pass
+    
+
+    def around(self, x, y):
+        neighbors = list()
+        point = self.pools[x][y].point
+        for dy in [-1, 0, 1]:
+            for dx in [-1, 0, 1]:
+                x, y = point(dx, dy)
+                neighbors.append((x, y))
+        neighbors.remove(point())
+        return neighbors
+
+    def diffusion(self):
+        pools = self.pools
+        for poolx in pools:
+            for pool in poolx:
+                x, y = pool.point()
+                neighbors = self.around(x, y)
+                tmp = pool.outDiffuse()
+                for x, y in neighbors:
+                    self.pools[x][y].inDiffuse(tmp)
+
 
     def drawPools(self):
         """
@@ -77,7 +124,7 @@ class Pools(object):
         output, pools = list(), self.pools
         for poolx in pools:
             for pool in poolx:
-                eachOne = pool.point, (pool['r'], pool['g'], pool['b'])
+                eachOne = pool.point(), (pool['r'], pool['g'], pool['b'])
                 output.append(eachOne)
         return output
         

@@ -32,18 +32,19 @@ class Pool(__Contain):
         self.__doDiffusion(tmp)
 
     def outDiffuse(self):
-        self.tmp.using += 2
+        neighborsum, keepsum = ARGS.NEIGHBORRADIO
+        self.tmp.using -= neighborsum
         contains = self()
         tmp = dict()
         for contain in contains:
-            tmp[contain] = int(contains[contain]/10)
-            self.tmp[contain] = contains[contain] - tmp[contain]*8
+            tmp[contain] = int(contains[contain]/(neighborsum+keepsum))
+            self.tmp[contain] = contains[contain] - tmp[contain]*neighborsum
         self.__doDiffusion(tmp)
         return tmp
 
     def __doDiffusion(self, tmp):
-        if self.tmp.using == 10 :
-            self._Contain__contains = self.tmp()
+        if self.tmp.using == 0 :
+            self(self.tmp())
             self.tmp = Contain(dict())
         pass
 
@@ -51,7 +52,7 @@ class Pool(__Contain):
 
 class Pools(object):
     """
-        这个类只会有一个实例, 目的是作为土壤, 培养瓶, 池子, 96孔板, 地图之类, 每个位置上最多会有一个 Cell
+        这个类只会有一个实例, 目的是作为一个可称之为土壤, 培养瓶, 池子, 96孔板, 地图的概念的实例, 每个位置上最多会有一个 Cell
     """
     def __init__(self, filename = None):
         """
@@ -85,16 +86,19 @@ class Pools(object):
                 poolx.append(pool)
             self.pools.append(poolx)
 
+        self.__setBlankInit()
+
+    def __setBlankInit(self):
+        self.pools[20][20]({"r":255, "g":255, "b":255 })
+
     
 
-    def around(self, x, y):
+    def around(self, x, y, neighborlist = ARGS.NEIGHBORLIST):
         neighbors = list()
         point = self.pools[x][y].point
-        for dy in [-1, 0, 1]:
-            for dx in [-1, 0, 1]:
-                x, y = point(dx, dy)
-                neighbors.append((x, y))
-        neighbors.remove(point())
+        for dx, dy in neighborlist:
+            x, y = point(dx, dy)
+            neighbors.append((x, y))
         return neighbors
 
     def diffusion(self):

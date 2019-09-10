@@ -19,7 +19,11 @@ class __Contain(object):
         return -sum # 若sum>0, 返回负数代表释放到环境, 否则返回正数代表从环境中得到
     
     def __call__(self, contains = None):
+        """
+            没有输入则拷贝 self.字典 并返回
+            输入一个字典则更新 self.字典
+        """
         if contains == None:
             return dict(self.__contains)
         for contain in contains:
-            self[contain] = contains[contain]
+            self.__contains[contain] = contains[contain]

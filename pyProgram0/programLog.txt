@@ -43113,3 +43113,30 @@ new LOG at 2019-09-10 13:54:47 :
 pygame 1.9.6
 Hello from the pygame community. https://www.pygame.org/contribute.html
 save successfully
+new LOG at 2019-09-10 14:23:11 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: 待条件合适, 应取消的特殊情况
+new LOG at 2019-09-10 14:24:18 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: 待条件合适, 应取消的特殊情况
+10 10 {'r': 255, 'g': 255, 'b': 255}
+10 20 {'r': 0, 'g': 255, 'b': 255}
+10 30 {'r': 255, 'g': 0, 'b': 255}
+new LOG at 2019-09-10 14:24:49 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: 待条件合适, 应取消的特殊情况
+10 10 {'r': 255, 'g': 255, 'b': 255}
+10 20 {'r': 0, 'g': 255, 'b': 255}
+10 30 {'r': 255, 'g': 0, 'b': 255}
+new LOG at 2019-09-10 14:25:18 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: 待条件合适, 应取消的特殊情况
+40 10 {'r': 255, 'g': 255, 'b': 255}
+40 20 {'r': 0, 'g': 255, 'b': 255}
+40 5 {'r': 255, 'g': 0, 'b': 255}
+45 15 {'r': 255, 'g': 255, 'b': 0}
+save successfully

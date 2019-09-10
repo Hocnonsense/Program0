@@ -89,7 +89,9 @@ class Pools(object):
         self.__setBlankInit()
 
     def __setBlankInit(self):
-        self.pools[20][20]({"r":255, "g":255, "b":255 })
+        print("Warning: 待条件合适, 应取消的特殊情况")
+        for (x, y), contains in ARGS.SETINITPOOLS:
+            self.pools[x][y](contains)
 
     
 

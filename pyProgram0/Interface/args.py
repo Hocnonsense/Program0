@@ -34,6 +34,18 @@ NEIGHBORRADIO = (
 )
 
 """
+为从头开始的 Pools 类设定内容
+"""
+SETINITPOOLS = [
+    ((40, 10), {"r":255, "g":255, "b":255 }),
+    ((40, 20), {"r":0, "g":255, "b":255 }),
+    ((40, 5), {"r":255, "g":0, "b":255 }),
+    ((45, 15), {"r":255, "g":255, "b":0 }),
+
+]
+
+
+"""
 for pyInit()
 to set the Size
     args = (ARGS.XBoundary, ARGS.YBoundary), ARGS.UnitSize

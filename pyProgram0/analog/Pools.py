@@ -114,7 +114,7 @@ class Pools(object):
                     self.pools[x][y].inDiffuse(tmp)
 
 
-    def drawPools(self):
+    def draw(self):
         """
             将 Pools 中的每个 Pool 转变为 (x, y), (r, g, b) 格式
         """

@@ -46,6 +46,15 @@ SETINITPOOLS = [
 
 
 """
+为从头开始的 Cells 类设定内容
+"""
+SETINITCELLS = [
+    (0, (41, 11), {"r":200, "g":200, "b":100 }),
+
+]
+
+
+"""
 for pyInit()
 to set the Size
     args = (ARGS.XBoundary, ARGS.YBoundary), ARGS.UnitSize

@@ -3,13 +3,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>923b4321-ae6b-4d6f-aea4-b1edec8a1f14</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
-    <StartupFile>pyProgram0.py</StartupFile>
+    <ProjectHome>
+    </ProjectHome>
+    <StartupFile>pyCulture0.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>pyProgram0</Name>
+    <Name>pyCulture0</Name>
     <RootNamespace>pyProgram0</RootNamespace>
     <InterpreterId>CondaEnv|CondaEnv|env</InterpreterId>
   </PropertyGroup>
@@ -25,7 +26,13 @@
     <Compile Include="analog\Cells.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="analog\Genome.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="analog\Pools.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="analog\Proteome.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="analog\__init__.py" />
@@ -51,7 +58,7 @@
     <Compile Include="MyLibrary\Monitor\PyHookTest.py" />
     <Compile Include="MyLibrary\Monitor\__init__.py" />
     <Compile Include="MyLibrary\__init__.py" />
-    <Compile Include="pyProgram0.py" />
+    <Compile Include="pyCulture0.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="interface\" />

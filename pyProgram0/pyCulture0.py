@@ -6,7 +6,8 @@ savelog()
 
 import interface.dll as dll
 
-import pygame, sys, time
+import pygame, sys
+from time import sleep
 from pygame.locals import *
 
 def refreash():
@@ -24,20 +25,16 @@ def refreash():
         if event.type == QUIT:
             running = False
 
-    if running == False:
-        dll.pyEnd()
-        sys.exit()
     return running
 
 def drawRect(screen, node, UnitSize):
     (x, y), color = node
-    x, y = x*UnitSize, y*UnitSize
     try:
-        pygame.draw.rect(screen, color, (x, y, x+UnitSize, y+UnitSize), 0)
+        pygame.draw.rect(screen, color, (x*UnitSize, y*UnitSize, UnitSize, UnitSize), 0)
     except Exception as e:
-        print(node)
-        time.sleep(30)
-    pass
+        print(e)
+        print(node, sep = "Error: ")
+        sleep(30)
 
 def display(XBoundary, YBoundary, UnitSize):
     pygame.init()
@@ -55,7 +52,7 @@ if __name__ == "__main__":
     screen = display(XBoundary, YBoundary, UnitSize)
 
     running = True
-    while running:
+    while(running):
 
         dll.pyStep()
 
@@ -65,3 +62,7 @@ if __name__ == "__main__":
             pass
     
         running = refreash()
+
+        
+    dll.pyEnd()
+    sys.exit()

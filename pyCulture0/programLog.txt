@@ -43309,3 +43309,8 @@ new LOG at 2019-09-11 10:19:05 :
 pygame 1.9.6
 Hello from the pygame community. https://www.pygame.org/contribute.html
 Warning: 待条件合适, 应取消的特殊情况
+new LOG at 2019-09-12 17:01:42 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: 待条件合适, 应取消的特殊情况
+save successfully

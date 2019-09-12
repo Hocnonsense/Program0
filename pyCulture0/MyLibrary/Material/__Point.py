@@ -63,5 +63,5 @@ class __Point(object):
         """
             not recommond
         """
-        self.__x, self.__y = x, y
+        self.__x , self.__y = self.__ifTuple(x, y)
         return(self.__x, self.__y)

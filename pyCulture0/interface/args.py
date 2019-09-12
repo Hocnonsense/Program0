@@ -46,10 +46,15 @@ SETINITPOOLS = [
 
 
 """
+为 Cell 设置移动逻辑
+此版本与 SETINITCELLS 相关
+"""
+PREFERCONTAIN = "prefer"
+"""
 为从头开始的 Cells 类设定内容
 """
 SETINITCELLS = [
-    (0, (41, 11), {"r":200, "g":200, "b":100 }),
+    (0, (41, 11), {"r":200, "g":200, "b":100, PREFERCONTAIN:"r" }),
 
 ]
 

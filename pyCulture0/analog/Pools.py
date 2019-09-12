@@ -54,14 +54,15 @@ class Pools(object):
     """
         这个类只会有一个实例, 目的是作为一个可称之为土壤, 培养瓶, 池子, 96孔板, 地图的概念的实例, 每个位置上最多会有一个 Cell
     """
-    def __init__(self, filename = None):
+    def __init__(self, cells):
         """
             初始化地图, 
             for 循环遍历并设置每个位点
         """
         self.pools = list(list())   #表示这是一个二维数组, 其实与一个 list() 一样
+        self.cells = cells
         try:
-            self.__fileInit(filename)
+            self.__fileInit()
         except Exception as e:
             self.__blankInit()
 
@@ -89,13 +90,18 @@ class Pools(object):
         self.__setBlankInit()
 
     def __setBlankInit(self):
-        print("Warning: 待条件合适, 应取消的特殊情况")
+        print("Warning: pools: 待条件合适, 应取消的特殊情况")
         for (x, y), contains in ARGS.SETINITPOOLS:
             self.pools[x][y](contains)
 
     
 
-    def around(self, x, y, neighborlist = ARGS.NEIGHBORLIST):
+    def around(self, point, neighborlist = ARGS.NEIGHBORLIST):
+        """
+            list() Pools.around(Point() point)
+            返回一个列表, 关于所有符合要求的 point 的坐标, 而非 pool
+        """
+        x, y = point
         neighbors = list()
         point = self.pools[x][y].point
         for dx, dy in neighborlist:
@@ -107,8 +113,7 @@ class Pools(object):
         pools = self.pools
         for poolx in pools:
             for pool in poolx:
-                x, y = pool.point()
-                neighbors = self.around(x, y)
+                neighbors = self.around(pool.point())
                 tmp = pool.outDiffuse()
                 for x, y in neighbors:
                     self.pools[x][y].inDiffuse(tmp)

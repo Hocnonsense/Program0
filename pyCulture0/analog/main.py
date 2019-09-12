@@ -9,10 +9,11 @@ pools, cells = None, None
 def pyInit():
     global pools
     global cells
-    pools = Pools()
-    cells = Cells()
+    pools = Pools(cells)
+    cells = Cells(pools)
 
 def pyStep():
+    cells.move()
     pools.diffusion()
     pass
 

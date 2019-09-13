@@ -64,22 +64,26 @@ class Cells(object):
 
 
     def move(self):
+        """
+            cell 的运动行为
+        """
         for cell in self.cells:
             neighbors = self.pools.around(cell.point())
+            x, y = cell.point()
             points = list()
+            points.append(self.pools.pools[x][y])
             prefer = cell.proteome[ARGS.PREFERCONTAIN]
             for x, y in neighbors:
                 if(self.pools.pools[x][y].occupy == None):
-                    if points == list():
+                    if(self.pools.pools[x][y][prefer] == points[0][prefer]):
                         points.append(self.pools.pools[x][y])
                     elif(self.pools.pools[x][y][prefer] > points[0][prefer]):
+                        points = list()
                         points.append(self.pools.pools[x][y])
-                    elif(self.pools.pools[x][y][prefer] == points[0][prefer]):
-                        points = list(self.pools.pools[x][y])
             if(points == list()):
                 point = cell.point()
             else:
-                point = points[random.randint(0, len(aim)-1)]
+                point = points[random.randint(0, len(points)-1)]
             (x0, y0), (x, y) = cell.point(), point.point()
             self.pools.pools[x0][y0].occupy = None
             cell.point.moveTo(x, y)

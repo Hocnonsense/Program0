@@ -1,3 +1,5 @@
+import interface.args as ARGS
+
 class Genome(object):
     _root = list()
     def __init__(self, treeNumber):
@@ -17,13 +19,30 @@ class Genome(object):
         input()
 
 class Vector(Genome):
-    def __init__(self, treeNumber, genes, c):
-        super().__init__(self, treeNumber)
+    def __init__(self, treeNumber, genes):
+        super().__init__(treeNumber)
         self.__genes = genes
 
     def commend(self):
         """
             在这里接受命令, 并返回相应特征值
         """
-        proteins = list()
+        proteins = dict()
+        transcription = self.__commend()
+        for transcript in transcription:
+            prefer= transcript.split(":")
+            proteins[prefer[0]] = prefer[1]
         return proteins
+
+    def __commend(self):
+        """
+            特别提取这个方法, 是因为需要把转录过程和翻译过程分开. 
+            翻译开始就可以交给 Proteome 完成了吗?
+        """
+        transcriptions = self.__genes.split(ARGS.TRANSCRIPTSTART)
+        transcriptions = transcriptions[1:]
+        transcription = list()
+        for transcript in transcriptions:
+            transcription.append(transcript.split(ARGS.TRANSCRIPTEND)[0])
+        return transcription
+

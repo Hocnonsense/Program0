@@ -21,7 +21,7 @@ class __Contain(object):
     def __call__(self, contains = None):
         """
             没有输入则拷贝 self.字典 并返回
-            输入一个字典则更新 self.字典
+            输入一个字典则更新 self.字典, 这个方法并不会把未提到的成分删除
         """
         if contains == None:
             return dict(self.__contains)

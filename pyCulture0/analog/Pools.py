@@ -7,18 +7,15 @@ class Point(__Point):
     __YBoundary = ARGS.YBoundary
 
 
-from MyLibrary.Material.__Contain import __Contain
-class Contain(__Contain):
-    def __init__(self, contains):
-        super().__init__(contains)
-        self.using = 0
+from analog.Proteome import Proteome as Contain
 
-class Pool(__Contain):
+class Pool(Contain):
     def __init__(self, point, contains):
         super().__init__(contains)
         self.__point = Point(point, "tuple")
         self.occupy = None  # 指向该位置上的 Cell
         self.tmp = Contain(dict()) # diffusion 中的暂存变量
+        self.tmp.using = 0
 
     def __getPoint(self):
         return Point(self.__point(), "a new Point()")
@@ -26,26 +23,32 @@ class Pool(__Contain):
 
 
     def inDiffuse(self, tmp):
+        """
+            接受来自外界的物质
+        """
         self.tmp.using += 1
         for contain in tmp:
-            self.tmp[contain] = tmp[contain]
+            self.tmp.set(contain, tmp[contain])
         self.__doDiffusion(tmp)
 
     def outDiffuse(self):
+        """
+            将自身物质释放到外界
+        """
         neighborsum, keepsum = ARGS.NEIGHBORRADIO
         self.tmp.using -= neighborsum
         contains = self()
         tmp = dict()
         for contain in contains:
             tmp[contain] = int(contains[contain]/(neighborsum+keepsum))
-            self.tmp[contain] = contains[contain] - tmp[contain]*neighborsum
+            self.tmp.set(contain, contains[contain] - tmp[contain]*neighborsum)
         self.__doDiffusion(tmp)
         return tmp
 
     def __doDiffusion(self, tmp):
         if self.tmp.using == 0 :
             self(self.tmp())
-            self.tmp = Contain(dict())
+            self.tmp(mode = 'clear')
         pass
 
 
@@ -121,7 +124,7 @@ class Pools(object):
 
     def draw(self):
         """
-            将 Pools 中的每个 Pool 转变为 (x, y), (r, g, b) 格式
+            将 Pools 中的每个 Pool 转变为 (x, y), (r, g, b) 格式, 从而能够以图形形式实时显示
         """
         output, pools = list(), self.pools
         for poolx in pools:

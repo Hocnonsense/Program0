@@ -59,12 +59,20 @@ TRANSCRIPTEND = "->end"
 此版本与 SETINITCELLS 相关
 """
 PREFERCONTAIN = "prefer"
+
+"""
+事实上, 每个 proteins 应至少包括以下特征: 总个数, 降解率, 作用对象, 单个效率, 作用产物, 
+    其他难以描述的特征还包括: 与其他 proteins 或 genome 结合, 在胞内还是胞外发挥作用
+"""
+CHARACTORSPLIT = ";"
+INITPROTEIN1 = "0.5" + CHARACTORSPLIT + "r" + CHARACTORSPLIT + "5" + CHARACTORSPLIT + "b" + CHARACTORSPLIT + "in" + ":1"
 """
 为从头开始的 Cells 类设定内容
 """
 SETINITCELLS = [
-    (0, (41, 11), TRANSCRIPTSTART + PREFERCONTAIN + ":r" + TRANSCRIPTEND, {"r":200, "g":200, "b":100, }),
-
+    (0, (41, 11), 
+     TRANSCRIPTSTART + PREFERCONTAIN + ":r" + TRANSCRIPTEND + TRANSCRIPTSTART + INITPROTEIN1 + TRANSCRIPTEND, 
+     {"r":100, "g":100, "b":100, }),
 ]
 
 

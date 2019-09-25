@@ -26,18 +26,22 @@ class Vector(Genome):
     def commend(self):
         """
             在这里接受命令, 并返回相应特征值
+            version 1.0.0: 
         """
         proteins = dict()
         transcription = self.__commend()
         for transcript in transcription:
-            prefer= transcript.split(":")
+            prefer = transcript.split(":")
             proteins[prefer[0]] = prefer[1]
         return proteins
 
     def __commend(self):
         """
+            return list()
+            version 1.0.0: 所有转录内容在 __genes 中以 ARGS.TRANSCRIPTSTART 开头, 并以 ARGS.TRANSCRIPTEND 结尾
             特别提取这个方法, 是因为需要把转录过程和翻译过程分开. 
             翻译开始就可以交给 Proteome 完成了吗?
+
         """
         transcriptions = self.__genes.split(ARGS.TRANSCRIPTSTART)
         transcriptions = transcriptions[1:]

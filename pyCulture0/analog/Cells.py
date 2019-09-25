@@ -5,10 +5,20 @@ from analog.Genome import Vector as Genome    # 只要是一个合理的基因�
 from analog.Proteome import Proteome
 import random
 
+
+"""
+现在, 我希望能加入这样的功能:
+    cell 可以按照 proteins 的要求与外界交换物质
+        在每次循环中, 对 proteins 进行遍历, 根据 proteins 做出相对应的操作
+        第一步是提供一个能模拟 proteins 功能的函数, 并给出对应的 proteins 
+        第二步是添加 proteins 对细胞功能的影响, 比如与外界交换物质
+    cell 可以根据外界的物质相对浓度运动
+"""
+
 class Cell(object):
-    def __init__(self, treeNumber, point, genes, proteins):
+    def __init__(self, treeNumber: int, point: Point, genes: str, proteins: dict):  
         """
-            这样的起始只能在显式调用 Cell() 时才能用到. 
+            这样的起始只能在显式调用 Cell() 时才能用到, 也就是 Cells.init() 中才可以用. 
         """
         self.genome = Genome(treeNumber, genes)
         self.proteome = Proteome(proteins)
@@ -20,7 +30,18 @@ class Cell(object):
             以后可以添加降解的内容, 或者用多线程独立每个cell的行为. 
         """
         proteins = self.genome.commend()
-        self.proteome(proteins)
+        for protein in proteins:
+            self.proteome.set(protein, 1)
+
+    def reaction(self):
+        self.proteome.deal()
+
+    def Diffuse(self, pool):
+        """
+            cell 内与 pool 的交流
+        """
+        for protein in self.proteome():
+            pass
 
 
 class Cells(object):
@@ -59,7 +80,7 @@ class Cells(object):
             cell 的运动行为
             # version 1.0.0 追随某些物质的行为
             假设环境中有一定的物质, 那么 cell 就会对其做出相应的反应. 
-            从 proteome 中读取相应记录, 从 pools 中找到含该物质 未被占据且最多或最少 的一个, 随后移动到这个位置
+            从 proteome 中读取相应记录, 从 pools 中找到 _含该物质未被占据且最多或最少_ 的一个, 随后移动到这个位置
         """
         for cell in self.cells:
             cell.transcript()
@@ -68,7 +89,7 @@ class Cells(object):
             x, y = cell.point() # 此时的位置
             points = list() # 收录选择去的点
             points.append(self.pools.pools[x][y])
-            prefer = cell.proteome[ARGS.PREFERCONTAIN]  # 选择可以去的点的依据
+            prefer = 'r'    # cell.proteome[ARGS.PREFERCONTAIN]  # 选择可以去的点的依据
 
             for x, y in neighbors:
                 if(self.pools.pools[x][y].occupy == None):
@@ -80,6 +101,8 @@ class Cells(object):
             point = points[random.randint(0, len(points)-1)]
             self.__move(cell, point.point())
 
+            cell.reaction()
+
     def __move(self, cell, point):
         (x0, y0), (x, y) = cell.point(), point
         self.pools.pools[x0][y0].occupy = None
@@ -88,6 +111,9 @@ class Cells(object):
 
 
     def draw(self):
+        """
+            将 Cells 中的每个 Cell 转变为 (x, y), (r, g, b) 格式, 从而能够以图形形式实时显示
+        """
         output = list()
         for cell in self.cells:
             eachOne = cell.point(), (cell.proteome()["r"], cell.proteome()["g"], cell.proteome()["b"])

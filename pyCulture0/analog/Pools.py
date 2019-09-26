@@ -14,8 +14,6 @@ class Pool(Contain):
         super().__init__(contains)
         self.__point = Point(point, "tuple")
         self.occupy = None  # 指向该位置上的 Cell
-        self.tmp = Contain(dict()) # diffusion 中的暂存变量
-        self.tmp.using = 0
 
     def __getPoint(self):
         return Point(self.__point(), "a new Point()")

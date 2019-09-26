@@ -12,6 +12,8 @@ import random
         在每次循环中, 对 proteins 进行遍历, 根据 proteins 做出相对应的操作
         第一步是提供一个能模拟 proteins 功能的函数, 并给出对应的 proteins 
         第二步是添加 proteins 对细胞功能的影响, 比如与外界交换物质
+            目前 proteins 可以在 cell 内完成反应
+            但是 如何在 pool 和 cell 间交换物质, 尚待解决
     cell 可以根据外界的物质相对浓度运动
 """
 
@@ -39,9 +41,41 @@ class Cell(object):
     def Diffuse(self, pool):
         """
             cell 内与 pool 的交流
+            发挥作用的物质保存在 proteome.tmp 中. 
+            要求 localization == ARGS.TRANSLOCATION
         """
-        for protein in self.proteome():
-            pass
+        from numpy.random import binomial
+        tmp = self.proteome.tmp
+        for protein in tmp():
+            
+            try:
+                degradeRate, reactant, efficiency, product, localization = protein.split(ARGS.CHARACTORSPLIT) # 首先能够将其转化为可以识别的类型
+                degradeRate, efficiency = float(degradeRate), int(efficiency)
+                #print(protein)
+                # 判断 _酶的定位, 发生反应的位置_
+                if localization == ARGS.TRANSLOCATION:
+                    limit = min(self.proteome[reactant], pool[product]) # 找出最少的值并保存
+                    tmp({"limit":limit})
+                    # 模拟转运
+                    productSum = tmp.set("limit", -efficiency*tmp[protein])
+                    self.proteome.set(reactant, -productSum)
+                    self.proteome.set(product, productSum)
+                    pool.set(product, -productSum)
+                    pool.set(reactant, productSum)
+                    # 模拟衰变
+                    degradeSum = binomial(tmp[protein], degradeRate)
+                    tmp.set(protein, -degradeSum)
+                elif localization == ARGS.INTRALOCATION:
+                    # 一般不会出现
+                    assert False
+                    pass
+                elif localization == ARGS.EXTRALOCATION:
+                    protein = protein.replace(ARGS.EXTRALOCATION, ARGS.INTRALOCATION)   # 意味着将其转运到膜外并去除标签, 将在另一个世界发挥作用
+                    productSum = tmp.set(protein, -tmp[protein])    # send itself out
+                    pool.set(protein, productSum)    # send itself out
+            except Exception as e:
+                #print(e)
+                assert len(protein.split(ARGS.CHARACTORSPLIT)) == 1 # 不是蛋白
 
 
 class Cells(object):
@@ -81,6 +115,8 @@ class Cells(object):
             # version 1.0.0 追随某些物质的行为
             假设环境中有一定的物质, 那么 cell 就会对其做出相应的反应. 
             从 proteome 中读取相应记录, 从 pools 中找到 _含该物质未被占据且最多或最少_ 的一个, 随后移动到这个位置
+            # version 1.0.1 
+            不应该决定性地去往某个区域, 最好能按照概率, 倾向于往比较好的地方移动
         """
         for cell in self.cells:
             cell.transcript()
@@ -93,15 +129,18 @@ class Cells(object):
 
             for x, y in neighbors:
                 if(self.pools.pools[x][y].occupy == None):
+                    #print(self.pools.pools[x][y][prefer], end = ", ")
                     if(self.pools.pools[x][y][prefer] == points[0][prefer]):
                         points.append(self.pools.pools[x][y])
-                    elif(self.pools.pools[x][y][prefer] < points[0][prefer]):
+                    elif(self.pools.pools[x][y][prefer] > points[0][prefer]):
                         points = list()
                         points.append(self.pools.pools[x][y])
             point = points[random.randint(0, len(points)-1)]
             self.__move(cell, point.point())
 
             cell.reaction()
+            x, y = cell.point()
+            cell.Diffuse(self.pools.pools[x][y])
 
     def __move(self, cell, point):
         (x0, y0), (x, y) = cell.point(), point
@@ -118,5 +157,6 @@ class Cells(object):
         for cell in self.cells:
             eachOne = cell.point(), (cell.proteome()["r"], cell.proteome()["g"], cell.proteome()["b"])
             output.append(eachOne)
+            #print(cell.proteome())
         return output
 

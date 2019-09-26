@@ -1,4 +1,4010 @@
-new LOG at 2019-09-26 00:35:11 :
+new LOG at 2019-09-26 12:21:40 :
 pygame 1.9.6
 Hello from the pygame community. https://www.pygame.org/contribute.html
 Warning: pools: ´ıÌõ¼şºÏÊÊ, Ó¦È¡ÏûµÄÌØÊâÇé¿ö
+{'r': 95, 'g': 100, 'b': 105, 'prefer': 1, '0.5;r;5;b;in': 1}
+{'r': 85, 'g': 100, 'b': 115, 'prefer': 2, '0.5;r;5;b;in': 2}
+{'r': 70, 'g': 100, 'b': 130, 'prefer': 3, '0.5;r;5;b;in': 1}
+{'r': 60, 'g': 100, 'b': 140, 'prefer': 4, '0.5;r;5;b;in': 1}
+{'r': 50, 'g': 100, 'b': 150, 'prefer': 5, '0.5;r;5;b;in': 0}
+{'r': 45, 'g': 100, 'b': 155, 'prefer': 6, '0.5;r;5;b;in': 0}
+{'r': 40, 'g': 100, 'b': 160, 'prefer': 7, '0.5;r;5;b;in': 1}
+{'r': 30, 'g': 100, 'b': 170, 'prefer': 8, '0.5;r;5;b;in': 2}
+{'r': 15, 'g': 100, 'b': 185, 'prefer': 9, '0.5;r;5;b;in': 1}
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 10, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 11, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 12, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 13, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 14, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 15, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 16, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 17, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 18, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 19, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 20, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 21, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 22, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 23, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 24, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 25, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 26, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 27, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 28, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 29, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 30, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 31, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 32, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 33, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 34, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 35, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 36, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 37, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 38, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 39, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 40, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 41, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 42, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 43, '0.5;r;5;b;in': 3}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 44, '0.5;r;5;b;in': 3}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 45, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 46, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 47, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 48, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 49, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 50, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 51, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 52, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 53, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 54, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 55, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 56, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 57, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 58, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 59, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 60, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 61, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 62, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 63, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 64, '0.5;r;5;b;in': 3}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 65, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 66, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 67, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 68, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 69, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 70, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 71, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 72, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 73, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 74, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 75, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 76, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 77, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 78, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 79, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 80, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 81, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 82, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 83, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 84, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 85, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 86, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 87, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 88, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 89, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 90, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 91, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 92, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 93, '0.5;r;5;b;in': 3}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 94, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 95, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 96, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 97, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 98, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 99, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 100, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 101, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 102, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 103, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 104, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 105, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 106, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 107, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 108, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 109, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 110, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 111, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 112, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 113, '0.5;r;5;b;in': 3}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 114, '0.5;r;5;b;in': 4}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 115, '0.5;r;5;b;in': 5}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 116, '0.5;r;5;b;in': 3}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 117, '0.5;r;5;b;in': 3}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 118, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 119, '0.5;r;5;b;in': 2}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 120, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 121, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 122, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 123, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 124, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 125, '0.5;r;5;b;in': 1}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 126, '0.5;r;5;b;in': 0}
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 127, '0.5;r;5;b;in': 0}new LOG at 2019-09-26 13:02:26 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: pools: ´ıÌõ¼şºÏÊÊ, Ó¦È¡ÏûµÄÌØÊâÇé¿ö
+{'r': 95, 'g': 100, 'b': 105, 'prefer': 1, '0.5;r;5;b;in': 0}
+{'r': 90, 'g': 100, 'b': 110, 'prefer': 2, '0.5;r;5;b;in': 1}
+{'r': 80, 'g': 100, 'b': 120, 'prefer': 3, '0.5;r;5;b;in': 2}
+{'r': 65, 'g': 100, 'b': 135, 'prefer': 4, '0.5;r;5;b;in': 1}
+{'r': 55, 'g': 100, 'b': 145, 'prefer': 5, '0.5;r;5;b;in': 1}
+{'r': 45, 'g': 100, 'b': 155, 'prefer': 6, '0.5;r;5;b;in': 1}
+{'r': 35, 'g': 100, 'b': 165, 'prefer': 7, '0.5;r;5;b;in': 1}
+{'r': 25, 'g': 100, 'b': 175, 'prefer': 8, '0.5;r;5;b;in': 0}
+{'r': 20, 'g': 100, 'b': 180, 'prefer': 9, '0.5;r;5;b;in': 1}
+{'r': 10, 'g': 100, 'b': 190, 'prefer': 10, '0.5;r;5;b;in': 1}
+save successfully
+new LOG at 2019-09-26 13:05:47 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: pools: ´ıÌõ¼şºÏÊÊ, Ó¦È¡ÏûµÄÌØÊâÇé¿ö
+0.5;b;5;r;trans
+1
+new LOG at 2019-09-26 13:07:38 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: pools: ´ıÌõ¼şºÏÊÊ, Ó¦È¡ÏûµÄÌØÊâÇé¿ö
+0.5;b;5;r;trans
+new LOG at 2019-09-26 13:09:54 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: pools: ´ıÌõ¼şºÏÊÊ, Ó¦È¡ÏûµÄÌØÊâÇé¿ö
+0.5;b;5;r;trans
+new LOG at 2019-09-26 13:10:46 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: pools: ´ıÌõ¼şºÏÊÊ, Ó¦È¡ÏûµÄÌØÊâÇé¿ö
+0.5;b;5;r;trans
+new LOG at 2019-09-26 13:11:25 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: pools: ´ıÌõ¼şºÏÊÊ, Ó¦È¡ÏûµÄÌØÊâÇé¿ö
+0.5;b;5;r;trans
+new LOG at 2019-09-26 13:14:04 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: pools: ´ıÌõ¼şºÏÊÊ, Ó¦È¡ÏûµÄÌØÊâÇé¿ö
+0.5;b;5;r;trans
+{'r': 95, 'g': 100, 'b': 105, 'prefer': 1, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 85, 'g': 100, 'b': 115, 'prefer': 2, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 75, 'g': 100, 'b': 125, 'prefer': 3, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 65, 'g': 100, 'b': 135, 'prefer': 4, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 60, 'g': 100, 'b': 140, 'prefer': 5, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 50, 'g': 100, 'b': 150, 'prefer': 6, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 35, 'g': 100, 'b': 165, 'prefer': 7, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 20, 'g': 100, 'b': 180, 'prefer': 8, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 9, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 10, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 11, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 12, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 13, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 14, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 15, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 16, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 17, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 18, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 19, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 20, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 21, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 22, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 23, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 24, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 25, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 26, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 27, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 28, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 29, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 30, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 31, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 32, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 33, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 34, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 35, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 36, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 37, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 38, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 39, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 40, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 41, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 42, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 43, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 44, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 45, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 46, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 47, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 48, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 49, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 50, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 51, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 52, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 53, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 54, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 55, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 56, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 57, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 58, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 59, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 60, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 61, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 62, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 63, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 64, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 65, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 66, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 67, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 68, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 69, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 70, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 71, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 72, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 73, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 74, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 75, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 76, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 77, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 78, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 79, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 80, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 81, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 82, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 83, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 84, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 85, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 86, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 87, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 88, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 89, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 90, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 91, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 92, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 93, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 94, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 95, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 96, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 97, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 98, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 99, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 100, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 101, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 102, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 103, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 104, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 105, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 106, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 107, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 108, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 109, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 110, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 111, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 112, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 113, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 114, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 115, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 116, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 117, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 118, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 119, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 120, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 121, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 122, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 123, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 124, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 125, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 126, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 127, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 128, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 129, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 130, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 131, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 132, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 133, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 134, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 135, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 136, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 137, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 138, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 139, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 140, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 141, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 142, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 143, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 144, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 145, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 146, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 147, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 148, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+limit
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 149, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}new LOG at 2019-09-26 13:17:21 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: pools: ´ıÌõ¼şºÏÊÊ, Ó¦È¡ÏûµÄÌØÊâÇé¿ö
+0.5;b;5;r;trans
+{'r': 95, 'g': 100, 'b': 105, 'prefer': 1, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 95, 'g': 100, 'b': 105, 'prefer': 2, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 95, 'g': 100, 'b': 105, 'prefer': 3, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 90, 'g': 100, 'b': 110, 'prefer': 4, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 85, 'g': 100, 'b': 115, 'prefer': 5, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 75, 'g': 100, 'b': 125, 'prefer': 6, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 75, 'g': 100, 'b': 125, 'prefer': 7, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 75, 'g': 100, 'b': 125, 'prefer': 8, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 70, 'g': 100, 'b': 130, 'prefer': 9, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 65, 'g': 100, 'b': 135, 'prefer': 10, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 65, 'g': 100, 'b': 135, 'prefer': 11, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 68, 'g': 100, 'b': 132, 'prefer': 12, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 66, 'g': 100, 'b': 134, 'prefer': 13, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 56, 'g': 100, 'b': 144, 'prefer': 14, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 56, 'g': 100, 'b': 144, 'prefer': 15, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 56, 'g': 100, 'b': 144, 'prefer': 16, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 56, 'g': 100, 'b': 144, 'prefer': 17, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 60, 'g': 100, 'b': 140, 'prefer': 18, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 61, 'g': 100, 'b': 139, 'prefer': 19, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 62, 'g': 100, 'b': 138, 'prefer': 20, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 58, 'g': 100, 'b': 142, 'prefer': 21, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 53, 'g': 100, 'b': 147, 'prefer': 22, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 54, 'g': 100, 'b': 146, 'prefer': 23, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 49, 'g': 100, 'b': 151, 'prefer': 24, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 39, 'g': 100, 'b': 161, 'prefer': 25, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 39, 'g': 100, 'b': 161, 'prefer': 26, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 38, 'g': 100, 'b': 162, 'prefer': 27, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 32, 'g': 100, 'b': 168, 'prefer': 28, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 21, 'g': 100, 'b': 179, 'prefer': 29, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 16, 'g': 100, 'b': 184, 'prefer': 30, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 10, 'g': 100, 'b': 190, 'prefer': 31, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 32, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 33, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 34, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 35, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 36, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 37, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 38, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 39, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 40, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 41, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 42, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 43, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 44, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 45, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 2, 'g': 100, 'b': 198, 'prefer': 46, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 47, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 48, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 49, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 50, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 51, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 52, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 53, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 54, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 55, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 56, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 57, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 58, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 59, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 60, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 61, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 62, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 63, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 64, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 65, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 66, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 67, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 68, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 69, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 70, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 71, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 72, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 73, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 74, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 75, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 76, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 77, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 2, 'g': 100, 'b': 198, 'prefer': 78, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 79, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 80, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 81, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 82, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 83, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 84, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 85, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 86, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 87, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 88, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 89, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 1, 'g': 100, 'b': 199, 'prefer': 90, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 91, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 1, 'g': 100, 'b': 199, 'prefer': 92, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 93, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 94, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 95, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 96, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 97, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 98, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 99, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 100, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 101, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 102, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 103, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 104, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 2, 'g': 100, 'b': 198, 'prefer': 105, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 106, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 107, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 108, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 109, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 110, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 111, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 2, 'g': 100, 'b': 198, 'prefer': 112, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 113, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 114, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 115, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 116, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 117, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 118, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 119, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 120, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 121, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 122, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 123, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 124, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 125, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 2, 'g': 100, 'b': 198, 'prefer': 126, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 127, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 128, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 129, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 130, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 2, 'g': 100, 'b': 198, 'prefer': 131, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 132, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 133, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 2, 'g': 100, 'b': 198, 'prefer': 134, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 135, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 136, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 137, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 138, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 139, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 140, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 141, '0.5;r;5;b;in': 4, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 142, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 143, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 144, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 145, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 146, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 147, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 148, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 149, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 5, 'g': 100, 'b': 195, 'prefer': 150, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 151, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 152, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 153, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 154, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 155, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 156, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 157, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 158, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 3, 'g': 100, 'b': 197, 'prefer': 159, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 160, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 4, 'g': 100, 'b': 196, 'prefer': 161, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 162, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 163, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 164, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 165, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 166, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 167, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 168, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 169, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 170, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 171, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 172, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 173, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 174, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 175, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 176, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 177, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 178, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 179, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 180, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 181, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 182, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 183, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 184, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 185, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 186, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 187, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 188, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 189, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 190, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 191, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 192, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 193, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 194, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 195, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 196, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 197, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 198, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 199, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 200, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 201, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 202, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 203, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 204, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 205, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 206, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 207, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 208, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 209, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 210, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 211, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 212, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 213, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 214, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 215, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 216, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 217, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 218, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 219, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 220, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 221, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 222, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 223, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 224, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 225, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 226, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 227, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 228, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 229, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 230, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 231, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 232, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 233, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 234, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 235, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 236, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 237, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 238, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 239, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 240, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 241, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 242, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 243, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 244, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 245, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 246, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 247, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 248, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 249, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 250, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 251, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 252, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 253, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 254, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 255, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 256, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 257, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 258, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 259, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 260, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 261, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 262, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 263, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 264, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 265, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 266, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 267, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 268, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 269, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 270, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 271, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 272, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 273, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 274, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 275, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 276, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 277, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 278, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 279, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 280, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 281, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 282, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 283, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 284, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 285, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 286, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 287, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 288, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 289, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 290, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 291, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 292, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 293, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 294, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 295, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 296, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 297, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 298, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 299, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 300, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 301, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 302, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 303, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 304, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 305, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 306, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 307, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 308, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 309, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 310, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 311, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 312, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 313, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 314, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 315, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 316, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 317, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 318, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 319, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 320, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 321, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 322, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 323, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 324, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 325, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 326, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 327, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 328, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 329, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 330, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 331, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 332, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 333, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 334, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 335, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 336, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 337, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 338, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 339, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 340, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 341, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 342, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 343, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 344, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 345, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 346, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 347, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 348, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 349, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 350, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 351, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 352, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 353, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 354, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 355, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 356, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 357, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 358, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 359, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 360, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 361, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 362, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 363, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 364, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 365, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 366, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 367, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 368, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 369, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 370, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 371, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 372, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 373, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 374, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 375, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 376, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 377, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 378, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 379, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 380, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 381, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 382, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 383, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 384, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 385, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 386, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 387, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 388, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 389, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 390, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 391, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 392, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 393, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 394, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 395, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 396, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 397, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 398, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 399, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 400, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 401, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 402, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 403, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 404, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 405, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 406, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 407, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 408, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 409, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 410, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 411, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 412, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 413, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 414, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 415, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 416, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 417, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 418, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 419, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 420, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 421, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 422, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 423, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 424, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 425, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 426, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 427, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 428, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 429, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 430, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 431, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 432, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 433, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 434, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 435, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 436, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 437, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 438, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 439, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 440, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 441, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 442, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 443, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 444, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 445, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 446, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 447, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 448, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 449, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 450, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 451, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 452, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 453, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 454, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 455, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 456, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 457, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 458, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 459, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 460, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 461, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 462, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 463, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 464, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 465, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 466, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 467, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 468, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 469, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 470, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 471, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 472, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 473, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 474, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 475, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 476, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 477, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 478, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 479, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 480, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 481, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 482, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 483, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 484, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 485, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 486, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 487, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 488, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 489, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 490, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 491, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 492, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 493, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 494, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 495, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 496, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 497, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 498, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 499, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 500, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 501, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 502, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 503, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 504, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 505, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 506, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 507, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 508, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 509, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 510, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 511, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 512, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 513, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 514, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 515, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 516, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 517, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 518, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 519, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 520, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 521, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 522, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 523, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 524, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 525, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 526, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 527, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 528, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 529, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 530, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 531, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 532, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 533, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 534, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 535, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 536, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 537, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 538, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 539, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 540, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 541, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 542, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 543, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 544, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 545, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 546, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 547, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 548, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 549, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 550, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 551, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 552, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 553, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 554, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 555, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 556, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 557, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 558, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 559, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 560, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 561, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 562, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 563, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 564, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 565, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 566, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 567, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 568, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 569, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 570, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 571, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 572, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 573, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 574, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 575, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 576, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 577, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 578, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 579, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 580, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 581, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 582, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 583, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 584, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 585, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 586, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 587, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 588, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 589, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 590, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 591, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 592, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 593, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 594, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 595, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 596, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 597, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 598, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 599, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 600, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 601, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 602, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 603, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 604, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 605, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 606, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 607, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 608, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 609, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 610, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 611, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 612, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 613, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 614, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 615, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 616, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 617, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 618, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 619, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 620, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 621, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 622, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 623, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 624, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 625, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 626, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 627, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 628, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 629, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 630, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 631, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 632, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 633, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 634, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 635, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 636, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 637, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 638, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 639, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 640, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 641, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 642, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 643, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 644, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 645, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 646, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 647, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 648, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 649, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 650, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 651, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 652, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 653, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 654, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 655, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 656, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 657, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 658, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 659, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 660, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 661, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 662, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 663, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 664, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 665, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 666, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 667, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 668, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 669, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 670, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 671, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 672, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 673, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 674, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 675, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 676, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 677, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 678, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 679, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 680, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 681, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 682, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 683, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 684, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 685, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 686, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 687, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 688, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 689, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 690, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 691, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 692, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 693, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 694, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 695, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 696, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 697, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 698, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 699, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 700, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 701, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 702, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 703, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 704, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 705, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 706, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 707, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 708, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 709, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 710, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 711, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 712, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 713, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 714, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 715, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 716, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 717, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 718, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 719, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 720, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 721, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 722, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 723, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 724, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 725, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 726, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 727, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 728, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 729, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 730, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 731, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 732, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 733, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 734, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 735, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 736, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 737, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 738, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 739, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 740, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 741, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 742, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 743, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 744, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 745, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 746, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 747, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 748, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 749, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 750, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 751, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 752, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 753, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 754, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 755, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 756, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 757, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 758, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 759, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 760, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 761, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 762, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 763, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 764, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 765, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 766, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 767, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 768, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 769, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 770, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 771, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 772, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 773, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 774, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 775, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 776, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 777, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 778, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 779, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 780, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 781, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 782, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 783, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 784, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 785, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 786, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 787, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 788, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 789, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 790, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 791, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 792, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 793, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 794, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 795, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 796, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 797, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 798, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 799, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 800, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 801, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 802, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 803, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 804, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 805, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 806, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 807, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 808, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 809, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 810, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 811, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 812, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 813, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 814, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 815, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 816, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 817, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 818, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 819, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 820, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 821, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 822, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 823, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 824, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 825, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 826, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 827, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 828, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 829, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 830, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 831, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 832, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 833, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 834, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 835, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 836, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 837, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 838, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 839, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 840, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 841, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 842, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 843, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 844, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 845, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 846, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 847, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 848, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 849, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 850, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 851, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 852, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 853, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 854, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 855, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 856, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 857, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 858, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 859, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 860, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 861, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 862, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 863, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 864, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 865, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 866, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 867, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 868, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 869, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 870, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 871, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 872, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 873, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 874, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 875, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 876, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 877, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 878, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 879, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 880, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 881, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 882, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 883, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 884, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 885, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 886, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 887, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 888, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 889, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 890, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 891, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 892, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 893, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 894, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 895, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 896, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 897, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 898, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 899, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 900, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 901, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 902, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 903, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 904, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 905, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 906, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 907, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 908, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 909, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 910, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 911, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 912, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 913, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 914, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 915, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 916, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 917, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 918, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 919, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 920, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 921, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 922, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 923, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 924, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 925, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 926, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 927, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 928, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 929, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 930, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 931, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 932, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 933, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 934, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 935, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 936, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 937, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 938, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 939, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 940, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 941, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 942, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 943, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 944, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 945, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 946, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 947, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 948, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 949, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 950, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 951, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 952, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 953, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 954, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 955, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 956, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 957, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 958, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 959, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 960, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 961, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 962, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 963, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 964, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 965, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 966, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 967, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 968, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 969, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 970, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 971, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 972, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 973, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 974, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 975, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 976, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 977, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 978, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 979, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 980, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 981, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 982, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 983, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 984, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 985, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 986, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 987, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 988, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 989, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 990, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 991, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 992, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 993, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 994, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 995, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 996, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 997, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 998, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 999, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1000, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1001, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1002, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1003, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1004, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1005, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1006, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1007, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1008, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1009, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1010, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1011, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1012, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1013, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1014, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1015, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1016, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1017, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1018, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1019, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1020, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1021, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1022, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1023, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1024, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1025, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1026, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1027, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1028, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1029, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1030, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1031, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1032, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1033, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1034, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1035, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1036, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1037, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1038, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1039, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1040, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1041, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1042, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1043, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1044, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1045, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1046, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1047, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1048, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1049, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1050, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1051, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1052, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1053, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1054, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1055, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1056, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1057, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1058, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1059, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1060, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1061, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1062, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1063, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1064, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1065, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1066, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1067, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1068, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1069, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1070, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1071, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1072, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1073, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1074, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1075, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1076, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1077, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1078, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1079, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1080, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1081, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1082, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1083, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1084, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1085, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1086, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1087, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1088, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1089, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1090, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1091, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1092, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1093, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1094, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1095, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1096, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1097, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1098, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1099, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1100, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1101, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1102, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1103, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1104, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1105, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1106, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1107, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1108, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1109, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1110, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1111, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1112, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1113, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1114, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1115, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1116, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1117, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1118, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1119, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1120, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1121, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1122, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1123, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1124, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1125, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1126, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1127, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1128, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1129, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1130, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1131, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1132, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1133, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1134, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1135, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1136, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1137, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1138, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1139, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1140, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1141, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1142, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1143, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1144, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1145, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1146, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1147, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1148, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1149, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1150, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1151, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1152, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1153, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1154, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1155, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1156, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1157, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1158, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1159, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1160, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1161, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1162, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1163, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1164, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1165, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1166, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1167, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1168, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1169, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1170, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1171, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1172, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1173, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1174, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1175, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1176, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1177, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1178, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1179, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1180, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1181, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1182, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1183, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1184, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1185, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1186, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1187, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1188, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1189, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1190, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1191, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1192, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1193, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1194, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1195, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1196, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1197, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1198, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1199, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1200, '0.5;r;5;b;in': 4, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1201, '0.5;r;5;b;in': 5, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1202, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1203, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1204, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1205, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1206, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1207, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1208, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1209, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1210, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1211, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1212, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1213, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1214, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1215, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1216, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1217, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1218, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1219, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1220, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1221, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1222, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1223, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1224, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1225, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1226, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1227, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1228, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1229, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1230, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1231, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1232, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1233, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1234, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1235, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1236, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1237, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1238, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1239, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1240, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1241, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1242, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1243, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1244, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1245, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1246, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1247, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1248, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1249, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1250, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1251, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1252, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1253, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1254, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1255, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1256, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1257, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1258, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1259, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1260, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1261, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1262, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1263, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1264, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1265, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1266, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1267, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1268, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1269, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1270, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1271, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1272, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1273, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1274, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1275, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1276, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1277, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1278, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1279, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1280, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1281, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1282, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1283, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1284, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1285, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1286, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1287, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1288, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1289, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1290, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1291, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1292, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1293, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1294, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1295, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1296, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1297, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1298, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1299, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1300, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1301, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1302, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1303, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1304, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1305, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1306, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1307, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1308, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1309, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1310, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1311, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1312, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1313, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1314, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1315, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1316, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1317, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1318, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1319, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1320, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1321, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1322, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1323, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1324, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1325, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1326, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1327, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1328, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1329, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1330, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1331, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1332, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1333, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1334, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1335, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1336, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1337, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1338, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1339, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1340, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1341, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1342, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1343, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1344, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1345, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1346, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1347, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1348, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1349, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1350, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1351, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1352, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1353, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1354, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1355, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1356, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1357, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1358, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1359, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1360, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1361, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1362, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1363, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1364, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1365, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1366, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1367, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1368, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1369, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1370, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1371, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1372, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1373, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1374, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1375, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1376, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1377, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1378, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1379, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1380, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1381, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1382, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1383, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1384, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1385, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1386, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1387, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1388, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1389, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1390, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1391, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1392, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1393, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1394, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1395, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1396, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1397, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1398, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1399, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1400, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1401, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1402, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1403, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1404, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1405, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1406, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1407, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1408, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1409, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1410, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1411, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1412, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1413, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1414, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1415, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1416, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1417, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1418, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1419, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1420, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1421, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1422, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1423, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1424, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1425, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1426, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1427, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1428, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1429, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1430, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1431, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1432, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1433, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1434, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1435, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1436, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1437, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1438, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1439, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1440, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1441, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1442, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1443, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1444, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1445, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1446, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1447, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1448, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1449, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1450, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1451, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1452, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1453, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1454, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1455, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1456, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1457, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1458, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1459, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1460, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1461, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1462, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1463, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1464, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1465, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1466, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1467, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1468, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1469, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1470, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1471, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1472, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1473, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1474, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1475, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1476, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1477, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1478, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1479, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1480, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1481, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1482, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1483, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1484, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1485, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1486, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1487, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1488, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1489, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1490, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1491, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1492, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1493, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1494, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1495, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1496, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1497, '0.5;r;5;b;in': 3, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1498, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1499, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1500, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1501, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1502, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1503, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1504, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1505, '0.5;r;5;b;in': 0, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1506, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1507, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1508, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1509, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1510, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1511, '0.5;r;5;b;in': 2, '0.5;b;5;r;trans': 0}
+0.5;b;5;r;trans
+{'r': 0, 'g': 100, 'b': 200, 'prefer': 1512, '0.5;r;5;b;in': 1, '0.5;b;5;r;trans': 0}new LOG at 2019-09-26 13:22:09 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: pools: ´ıÌõ¼şºÏÊÊ, Ó¦È¡ÏûµÄÌØÊâÇé¿ö
+save successfully
+new LOG at 2019-09-26 13:29:04 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: pools: ´ıÌõ¼şºÏÊÊ, Ó¦È¡ÏûµÄÌØÊâÇé¿ö
+new LOG at 2019-09-26 13:40:06 :
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Warning: pools: ´ıÌõ¼şºÏÊÊ, Ó¦È¡ÏûµÄÌØÊâÇé¿ö
+0, 0, 0, 0, [0, 0, 0, 0, 0, ]
+0, 87, 0, 0, [87, ]
+28, 28, 28, 28, [59, ]
+26, 26, 26, 26, [39, ]
+21, 21, 21, 21, [31, ]
+19, 19, 19, 19, [23, ]
+15, 15, 15, 15, [23, ]
+15, 16, 15, 15, [19, ]
+13, 14, 13, 13, [15, ]
+12, 14, 12, 12, [15, ]
+9, 11, 9, 9, [15, ]
+11, 14, 10, 11, [14, ]
+9, 12, 12, 9, [12, 12, ]
+8, 9, 12, 8, [12, ]
+9, 10, 9, 9, [10, ]
+7, 10, 8, 7, [10, 10, ]
+7, 8, 10, 7, [10, 10, ]
+6, 8, 10, 6, [10, 10, ]
+6, 10, 8, 6, [10, 10, ]
+6, 10, 8, 6, [10, 10, ]
+5, 10, 8, 5, [10, 10, ]
+8, 8, 8, 8, [8, 8, 8, 8, 8, ]
+8, 6, 9, 7, [9, ]
+6, 6, 8, 8, [8, 8, ]
+7, 8, 8, 5, [8, 8, ]
+6, 8, 8, 7, [8, 8, ]
+9, 7, 9, 7, [9, 9, ]
+6, 8, 8, 6, [8, 8, ]
+9, 9, 6, 7, [9, 9, ]
+7, 9, 8, 6, [9, ]
+6, 8, 9, 6, [9, ]
+7, 9, 8, 5, [9, ]
+6, 8, 8, 5, [8, 8, ]
+7, 8, 6, 7, [8, ]
+6, 7, 8, 7, [8, ]
+7, 8, 6, 6, [8, ]
+6, 7, 8, 6, [8, ]
+7, 8, 5, 5, [8, ]
+6, 7, 6, 5, [7, ]
+7, 7, 7, 4, [7, 7, 7, ]
+7, 3, 6, 3, [7, ]
+4, 3, 7, 6, [7, ]
+7, 7, 6, 6, [7, 7, ]
+8, 4, 8, 7, [8, 8, ]
+5, 7, 5, 6, [7, ]
+6, 7, 6, 7, [7, 7, ]
+7, 5, 4, 3, [7, ]
+5, 6, 5, 4, [6, ]
+5, 6, 4, 4, [6, ]
+3, 3, 4, 5, [5, ]
+3, 2, 4, 5, [6, ]
+4, 4, 5, 6, [6, ]
+3, 6, 4, 6, [6, 6, ]
+4, 6, 4, 5, [6, ]
+4, 6, 3, 4, [6, ]
+3, 6, 3, 3, [6, ]
+5, 3, 3, 6, [6, ]
+3, 2, 4, 1, [4, ]
+3, 2, 5, 2, [5, ]
+3, 4, 2, 3, [5, ]
+5, 4, 3, 3, [5, 5, ]
+3, 4, 2, 5, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+3, 4, 2, 5, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+4, 4, 2, 5, [5, 5, ]
+5, 4, 3, 5, [5, 5, 5, ]
+5, 4, 3, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+3, 2, 2, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 3, 3, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+5, 4, 4, 5, [5, 5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+4, 2, 3, 5, [5, 5, ]
+5, 4, 4, 5, [5, 5, 5, 
